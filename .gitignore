@@ -1,0 +1,51 @@
+# Binaries
+/bin
+/bin/*
+/build
+/build/*
+/out
+/out/*
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go Workspace
+*.mod
+*.sum
+
+# Go test binary
+*.test
+
+# Coverage files
+*.out
+*.profile
+
+# Vendor directory
+/vendor/
+
+# IDE and Editor files
+.idea/
+*.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment variable files
+.env
+*.env
+
+# Database files
+*.sqlite
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
